@@ -1,14 +1,14 @@
 # Exile-Pods
 Lock/unlock, repair, flip, check state and skins.
 
-It's for Exile IgiLoad with TaruPodMod.
+It's for Exile IgiLoad with TaruPodMod. That you can found [here](http://www.exilemod.com/topic/1018-exile-igiload-with-tarupodmod/)
 
 
-With this, to repair you use new Exile Repair Function (with the progress bar).
-You can also check if the pod need to be repair when is unlock.
+####With this, to repair you use new Exile Repair Function (with the progress bar).
+####You can also check if the pod need to be repair when is unlock.
 
-And adding Pods to the Vehicle Customs for ground vehicles to buy their skins.
-(note the names of the skins, they are not all as optimal pods models)
+####And adding Pods to the Vehicle Customs for ground vehicles to buy their skins.
+####(note the names of the skins, they are not all as optimal pods models)
 
 
 Install:
