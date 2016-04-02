@@ -18,6 +18,4 @@ With this:
 
 #####BattlEye:
 Add this in script.txt at the end of line '7 exec':
-'''
-!="_this execVM 'addons\Check_state_of_object.sqf';"
-'''
+'<!="_this execVM 'addons\Check_state_of_object.sqf';">'
