@@ -16,3 +16,8 @@ With this:
 
 2 - Put the two folders "addons" and "Custom" in your mission.pbo
 
+#####BattlEye:
+Add this in script.txt at the end of line '7 exec':
+'''
+!="_this execVM 'addons\Check_state_of_object.sqf';"
+'''
