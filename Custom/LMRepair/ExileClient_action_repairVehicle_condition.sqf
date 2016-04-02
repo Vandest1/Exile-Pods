@@ -14,10 +14,10 @@ _vehicle = _this;
 _result = "";
 try 
 {
-	/*if (ExileClientPlayerIsInCombat) then
+	if (ExileClientPlayerIsInCombat) then
 	{
 		throw "You are in combat!";
-	};*/
+	};
 	if ((vehicle player) isEqualTo _vehicle) then 
 	{
 		throw "Are you serious?";
