@@ -88,3 +88,22 @@ class CfgInteractionMenus
 		};
 	};
 };
+
+class CfgVehicleCustoms
+{
+	///////////////////////////////////////////////////////////////////////////////
+    // Taru Pods
+    ///////////////////////////////////////////////////////////////////////////////
+	class Pod_Heli_Transport_04_base_F
+	{
+		skins[] = 
+		{			
+			{"Land_Pod_Heli_Transport_04_covered_F",			2000, "CSAT",			{"A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_CO.paa","A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_CO.paa"};},
+			{"Land_Pod_Heli_Transport_04_covered_black_F",		2000, "Black",			{"A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext01_black_CO.paa","A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_Pod_Ext02_black_CO.paa"};},
+			{"Land_Pod_Heli_Transport_04_fuel_F",				2000, "CSAT Fuel",		{"A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_fuel_CO.paa"};},
+			{"Land_Pod_Heli_Transport_04_fuel_black_F",			2000, "Black Fuel",		{"A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_fuel_black_CO.paa"};},
+			{"Land_Pod_Heli_Transport_04_bench_F",				2000, "CSAT Bench",		{"A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_bench_CO.paa"};},
+			{"Land_Pod_Heli_Transport_04_bench_black_F",		2000, "Black Bench",	{"A3\Air_F_Heli\Heli_Transport_04\Data\Heli_Transport_04_bench_black_CO.paa"};}
+		};
+	};
+};
